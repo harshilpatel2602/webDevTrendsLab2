@@ -1,3 +1,3 @@
 # webDevTrendsLab2
 
-This is the develop branch, by Harshil Patel.
+This is the testing branch, by Harshil Patel.
